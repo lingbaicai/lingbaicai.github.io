@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>baicai-Ling</title>
+  
+  <subtitle>憨憨呀</subtitle>
+  <link href="http://lingbaicai.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://lingbaicai.github.io/"/>
+  <updated>2022-04-28T08:04:28.865Z</updated>
+  <id>http://lingbaicai.github.io/</id>
+  
+  <author>
+    <name>baicai-Ling</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello , My first post !</title>
+    <link href="http://lingbaicai.github.io/2022/042816107.html"/>
+    <id>http://lingbaicai.github.io/2022/042816107.html</id>
+    <published>2022-04-28T05:34:48.424Z</published>
+    <updated>2022-04-28T08:04:28.865Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
