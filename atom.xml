@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>baicai-Ling</title>
   
-  <subtitle>憨憨呀</subtitle>
+  
   <link href="http://lingbaicai.github.io/atom.xml" rel="self"/>
   
   <link href="http://lingbaicai.github.io/"/>
-  <updated>2022-04-28T08:04:28.865Z</updated>
+  <updated>2022-05-04T10:17:08.710Z</updated>
   <id>http://lingbaicai.github.io/</id>
   
   <author>
@@ -17,18 +17,18 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello , My first post !</title>
+    <title>Linux的学习之路!</title>
     <link href="http://lingbaicai.github.io/2022/042816107.html"/>
     <id>http://lingbaicai.github.io/2022/042816107.html</id>
     <published>2022-04-28T05:34:48.424Z</published>
-    <updated>2022-04-28T08:04:28.865Z</updated>
+    <updated>2022-05-04T10:17:08.710Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;p&gt;Linux，全称GNU&amp;#x2F;Linux，是一种免费使用和自由传播的类UNIX操作系统，其内核由林纳斯·本纳第克特·托瓦兹于1991年10月5日首次发布，它主要受到Minix和Unix思想的启发，是一个基于POSIX的多用户、多任务、支持多线程和多CPU的操作系统。它能</summary>
         
       
     
